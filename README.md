@@ -1,16 +1,20 @@
-### Hi there 👋
+![alt text](https://github.com/Gahznt/Gahznt/blob/main/Gabriel%20Zanata.png?raw=true)
 
-<!--
-**Gahznt/Gahznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <a href="https://github.com/Gahznt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gahznt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahznt&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! 👋
+Sou Gabriel, 
+Desenvolvedor Web e analista de Dados, cursando Análise e Desenvolvimento de sistemas. Atualmente estou atuando com PhP-Laravel e Analise de dados armazenados em SQL.
+Trabalho em diversos projetos tanto em desenvolvimento WEB quanto em algoritimos de automação.
+Também trabalho em um projeto Open Source de minha autoria, voltado a comunidade do Tibia.
+
+Atualmente em proceso de aprendizagem em:
+- Python
+- Power BI (Business Intelligence)
+- WordPress
+- React
+- React Native
