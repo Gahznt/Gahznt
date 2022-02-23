@@ -11,10 +11,3 @@ Sou Gabriel,
 Desenvolvedor Web e analista de Dados, cursando Análise e Desenvolvimento de sistemas. Atualmente estou atuando com PhP-Laravel e Analise de dados armazenados em SQL.
 Trabalho em diversos projetos tanto em desenvolvimento WEB quanto em algoritimos de automação.
 Também trabalho em um projeto Open Source de minha autoria, voltado a comunidade do Tibia.
-
-Atualmente em proceso de aprendizagem em:
-- Python
-- Power BI (Business Intelligence)
-- WordPress
-- React
-- React Native
