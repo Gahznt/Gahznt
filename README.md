@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Gahznt/Gahznt/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Gahznt/Gahznt/blob/output/snake.svg)
 
 ###
