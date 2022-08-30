@@ -1,7 +1,3 @@
-<h2 align="left">Olá 👋! Tudo bem?</h2>
-
-###
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gahznt?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card) 
 
 ###
