@@ -30,6 +30,8 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://www.digitalhouse.com/br/blog/content/images/2022/06/gifs-do-gatinho-digitando-2.gif"/>
+###
 
 <div align="left">
   <a href="https://www.instagram.com/ga.zanata/" target="_blank">
