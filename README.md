@@ -48,10 +48,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C4D12AQHDuM2OPvdYmA/article-inline_image-shrink_400_744/0/1595167867654?e=1657152000&v=beta&t=zmDVILqaO6_waMvwK4oDLlII7ktpDCA_Q1iQU4T5h5M"  />
-
-###
-
 <br clear="both">
 
 ![snake gif](https://github.com/Gahznt/Gahznt/blob/output/snake.svg)
