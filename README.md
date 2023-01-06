@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎯 Me chamo Gabriel Zanata, tenho 22 anos e moro em Extrema - MG.<br><br>Sou desenvolvedor backend, apaixonado por tecnologia. Comecei meus estudos em programação graças ao jogo da época TIBIA por volta dos meus 15 anos, e de la pra cá vim me especializando no desenvolvimento web, a partir de Março de 2022 entrei de cara no mercado de telcnologia para atuar como desenvolvedor.</p>
+<p align="left">🎯 Me chamo Gabriel Zanata, tenho 23 anos e moro em Extrema - MG.<br><br>Sou desenvolvedor backend, apaixonado por tecnologia. Comecei meus estudos em programação graças ao jogo da época TIBIA por volta dos meus 15 anos, e de la pra cá vim me especializando no desenvolvimento web, a partir de Março de 2022 entrei de cara no mercado de telcnologia para atuar como desenvolvedor.</p>
 
 ###
 
