@@ -2,10 +2,10 @@
 
 ###
 
-<li>
-  <ul>Backend Developer</ul>
-  <ul>Software Engineer</ul>
-</li>
+<ul>
+  <li>Backend Developer</li>
+  <li>Software Engineer</li>
+</ul>
 
 ###
 
