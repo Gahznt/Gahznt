@@ -2,11 +2,10 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">🎯 Gabriel Zanata, tenho 23 anos e moro em Extrema - MG.<br><br>Sou desenvolvedor backend. Comecei meus estudos em programação por volta dos meus 15 anos, e de la pra cá vim me especializando no desenvolvimento focando no backend</p>
+<li>
+  <ul>Backend Developer</ul>
+  <ul>Software Engineer</ul>
+</li>
 
 ###
 
