@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript"  />
   <img src="https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" height="30" width="42" alt="typescript logo"  />
 </div>
+  <img src="https://camo.githubusercontent.com/9b70a59580f9cdb57e2083a8085cfb55614d3c145cc56ac8a3d3b81870d0f3d1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2e737667" height="30" width="42" alt="typescript logo"  />
+</div>
 
 ###
 <img align="right" height="150" src="https://www.digitalhouse.com/br/blog/content/images/2022/06/gifs-do-gatinho-digitando-2.gif"/>
