@@ -55,6 +55,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Gahznt/Gahznt/blob/output/snake.svg)
-
 ###
