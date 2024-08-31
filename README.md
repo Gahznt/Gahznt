@@ -29,12 +29,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
 
-<p align="left">Me chamo Gabriel Zanata, moro em Minas Gerais (MG - Brasil).<br><br>- 🔭 Sou desenvolvedor backend, focado no desenvolvimento de soluções com diversas tecnologias, mas principalmente Laravel.<br>- 📚 Atualmente sou Engenheiro de Software.</p>
-
+<p align="left">
+  Me chamo Gabriel Zanata e moro em Minas Gerais (MG - Brasil). <br><br>
+  - 🔭 Sou um desenvolvedor backend apaixonado por criar soluções robustas e escaláveis utilizando diversas tecnologias, com foco especial em Laravel. <br>
+  - 📚 Atualmente, trabalho como Engenheiro de Software, onde tenho a oportunidade de aplicar meus conhecimentos para resolver problemas complexos e entregar resultados de alta qualidade. <br>
+  - 🌱 Acredito no aprendizado contínuo e estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias para me manter atualizado com as melhores práticas do setor. <br>
+  - 💡 Me interesso por segurança da informação, arquitetura de software e inteligência artificial, e gosto de contribuir para projetos open source no meu tempo livre.
+</p>
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
