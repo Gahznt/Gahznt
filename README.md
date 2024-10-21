@@ -1,6 +1,6 @@
-<div align="center">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gahznt?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card) 
-</div>
+
 <h1>
 </h1>
 <h3>
